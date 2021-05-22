@@ -1,6 +1,6 @@
 dependencies:
+  - matplotlib.pyplot
   - numpy
   - pandas
-  - matplotlib.pyplot
   - seaborn
   - warnings
